@@ -1,0 +1,47 @@
+
+h2{
+    color: bisque;
+}
+body{
+    background-color: rgb(139, 152, 224);
+    color: rgb(87, 79, 69);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+h1{
+  text-align: center;  
+}
+p{
+    width: 600px; margin-left: 300px;
+    line-height: 1.5;
+}
+nav{
+    width: 200px;
+    padding-left: 30px;
+line-height: 2;
+}
+.vpravo{
+    float: right;
+}
+.vlevo{
+    float: left;
+}
+img{
+    margin-right: 100px;
+}
+a:link{
+    color: rgb(189, 204, 219); text-decoration: none;
+}
+a:hover{
+    color: wheat;
+}
+a:visited{
+    color: aquamarine;
+}
+article{
+    float: left;
+    border: thin solid;
+    padding: 30px 5px 0px 5px;
+    border-radius: 30px;
+    margin: 0px 15px 30px 15px;
+}
